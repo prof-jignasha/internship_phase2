@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo JS variable</title>
+    <script type="text/javascript">
+let a=3,b=20;
+var c=a+b;
+console.log("Sum of a+b is:",c);
+document.write("Sum of a+b is:",c);</script>
+</head>
+<body>
+    
+</body>
+</html>
